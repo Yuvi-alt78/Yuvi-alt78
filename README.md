@@ -1,7 +1,7 @@
 # Hi, I'm Yuvati Sijapati 👋
 
 Welcome to my GitHub! I'm a Front-End Developer with a passion for creating beautiful, dynamic websites. 
-I love building engaging web pages that combine great design with seamless functionality.
+I love building engaging web pages that combine great design with seamless functionality. 
 While **animation* is a hobby of mine, I enjoy incorporating it into my projects to add that 
 extra touch of creativity and interactivity.
 
